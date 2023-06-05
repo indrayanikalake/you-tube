@@ -1,0 +1,12 @@
+.app{
+    background: transparent;
+    backdrop-filter:blur(2px);
+    border-radius: 10px;
+    width:70%;
+    height: 90vh;
+    margin-left: 15%;
+    margin-top: 5vh;
+    box-shadow:  10px 10px 10px rgb(154, 47, 134),
+               inset 20px 20px 20px rgb(248, 246, 248) ;
+}
+

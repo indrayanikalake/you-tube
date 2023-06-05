@@ -1,0 +1,48 @@
+
+.abc{
+    height:20vh;
+    width:70%;
+    margin-top: 2%;
+    margin-left: 15%;
+    padding: 10px;
+    position:center;
+    background:white;
+    border-radius: 10px;
+
+    
+    
+}
+.text-form{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(208, 17, 233);
+    margin-left: 1%;
+    margin-top: 4%;
+}
+.text-form.invalid label{
+    color: red;
+}
+.text-form.invalid input{
+    background: salmon;
+    border-color: red;
+}
+#text{
+    width: 90%;
+}
+
+.btn{
+    margin-top: 1.5%;
+    margin-left: 1%;
+    border-radius: 50px;
+    background: rgb(215, 10, 140);
+    height: 5vh;
+    width:20%;
+    color: white;
+    font-weight: bold;    
+    border:2.5px solid rgb(215, 10, 140);
+}
+.btn.invalid {
+    background: transparent;
+  
+
+}

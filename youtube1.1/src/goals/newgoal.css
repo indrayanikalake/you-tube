@@ -1,0 +1,13 @@
+.goal{
+    height:2vh;
+    width:50%;
+    margin-top: 2%;
+    margin-left: 25%;
+    background-color: rgb(215, 10, 140);
+    color: white;
+    padding: 10px;
+    position:center;
+    border-radius: 8px;
+    box-shadow: inset 5px 5px 5px rgb(251,251,249);
+    
+}
